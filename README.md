@@ -99,6 +99,12 @@ Password:
     sudo systemctl restart mssql-server
     
     
+## Optional If somehow need to change the your machin IP ,lets follow ...
+
+#### How to change machin ip address 
+    cd /etc/netplan/00-installer-config.yaml
+
+    
     
     
     
